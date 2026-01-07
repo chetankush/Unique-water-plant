@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react';
-import { Phone, Droplets, Shield, Calendar } from 'lucide-react';
+import { Phone, Droplets, Shield } from 'lucide-react';
 import heroImage from '../assets/image.png';
 import heroImage1 from '../assets/bottles-conveyer.png';
 
