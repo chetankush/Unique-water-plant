@@ -1,10 +1,10 @@
 import { AlertCircle } from 'lucide-react';
 
 const pricingData = [
-  { size: '250 ml', name: 'Small Crypto', bottles: '40 पीस', distributor: '₹105', retailer: '₹130' },
-  { size: '500 ml', name: 'Regular Crypto', bottles: '24 पीस', distributor: '₹84', retailer: '₹110' },
-  { size: '1 Litre', name: 'Standard Crypto', bottles: '12 पीस', distributor: '₹63', retailer: '₹80-85' },
-  { size: '2 Litre', name: 'Jumbo Crypto', bottles: '09 पीस', distributor: '₹105', retailer: '₹135-140' },
+  { size: '250 ml', name: 'Small Bottle', bottles: '40 पीस', distributor: '₹105', retailer: '₹130' },
+  { size: '500 ml', name: 'Regular Bottle', bottles: '24 पीस', distributor: '₹84', retailer: '₹110' },
+  { size: '1 Litre', name: 'Standard Bottle', bottles: '12 पीस', distributor: '₹63', retailer: '₹80-85' },
+  { size: '2 Litre', name: 'Jumbo Bottle', bottles: '09 पीस', distributor: '₹105', retailer: '₹135-140' },
 ];
 
 const terms = [
@@ -171,8 +171,8 @@ export default function Pricing() {
           }}>
             <p style={{ fontSize: '15px', color: '#1E40AF' }}>
               📅 <strong>रेट लिस्ट लागू दिनांक:</strong>{' '}
-              <span style={{ color: '#DC2626', fontWeight: 700 }}>05 अगस्त 2025</span> से{' '}
-              <span style={{ color: '#DC2626', fontWeight: 700 }}>31 दिसंबर 2025</span> तक
+              <span style={{ color: '#DC2626', fontWeight: 700 }}>01 जनवरी 2026</span> से{' '}
+              <span style={{ color: '#DC2626', fontWeight: 700 }}>31 दिसंबर 2027</span> तक
             </p>
           </div>
         </div>

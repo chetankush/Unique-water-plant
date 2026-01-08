@@ -104,7 +104,7 @@ export default function Contact() {
             </div>
             <div>
               <p style={{ fontSize: '12px', color: '#64748b', marginBottom: '2px' }}>Location</p>
-              <p style={{ fontSize: '14px', fontWeight: 500, color: '#0B3A5D' }}>ऑफिस विजय नगर, इंदौर (म.प्र.)</p>
+              <p style={{ fontSize: '14px', fontWeight: 500, color: '#0B3A5D' }}>Khatkiya, Kumbhraj (District Guna) - 473222</p>
             </div>
           </div>
 
@@ -122,8 +122,8 @@ export default function Contact() {
             </div>
             <div>
               <p style={{ fontSize: '12px', color: '#64748b', marginBottom: '2px' }}>Email</p>
-              <a href="mailto:deepanshurajput998@gmail.com" style={{ fontSize: '14px', fontWeight: 500, color: '#0B3A5D', textDecoration: 'none' }}>
-                deepanshurajput998@gmail.com
+              <a href="mailto:abhimeena1402@gmail.com" style={{ fontSize: '14px', fontWeight: 500, color: '#0B3A5D', textDecoration: 'none' }}>
+                abhimeena1402@gmail.com
               </a>
             </div>
           </div>
@@ -143,12 +143,16 @@ export default function Contact() {
             <div>
               <p style={{ fontSize: '12px', color: '#64748b', marginBottom: '2px' }}>Telephone</p>
               <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
-                <a href="tel:+918435996985" style={{ fontSize: '14px', fontWeight: 500, color: '#0B3A5D', textDecoration: 'none' }}>
-                  +91-84359-96985
+                <a href="tel:+919111670455" style={{ fontSize: '14px', fontWeight: 500, color: '#0B3A5D', textDecoration: 'none' }}>
+                  +91-91116-70455
                 </a>
                 <span style={{ color: '#64748b' }}>|</span>
-                <a href="tel:+918871989370" style={{ fontSize: '14px', fontWeight: 500, color: '#0B3A5D', textDecoration: 'none' }}>
-                  +91-88719-89370
+                <a href="tel:+917610662296" style={{ fontSize: '14px', fontWeight: 500, color: '#0B3A5D', textDecoration: 'none' }}>
+                  +91-76106-62296
+                </a>
+                <span style={{ color: '#64748b' }}>|</span>
+                <a href="tel:+918085557159" style={{ fontSize: '14px', fontWeight: 500, color: '#0B3A5D', textDecoration: 'none' }}>
+                  +91-80855-57159
                 </a>
               </div>
             </div>

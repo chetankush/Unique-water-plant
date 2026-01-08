@@ -53,13 +53,13 @@ export default function Footer() {
               }} />
               <div>
                 <span style={{ fontSize: '18px', fontWeight: 700, color: '#fff', fontFamily: 'Poppins, sans-serif', display: 'block' }}>Unique Water Plant</span>
-                <span style={{ fontSize: '12px', color: 'rgba(255,255,255,0.6)' }}>Crypto Packaged Drinking Water</span>
+                <span style={{ fontSize: '12px', color: 'rgba(255,255,255,0.6)' }}>(Customised Water Bottle Labeling)</span>
               </div>
             </a>
             <p style={{ color: 'rgba(255,255,255,0.7)', fontSize: '14px', lineHeight: 1.7, marginBottom: '16px' }}>
               Manufacturers of Premium Packaged Drinking Water for retailers and distributors.
             </p>
-            <p style={{ color: '#00D9FF', fontWeight: 600, fontSize: '15px' }}>#drinkcrypto</p>
+            <p style={{ color: '#00D9FF', fontWeight: 600, fontSize: '15px' }}>अपना नाम अपना काम</p>
           </div>
 
           {/* Quick Links */}
@@ -86,21 +86,25 @@ export default function Footer() {
           <div>
             <h4 style={{ fontSize: '16px', fontWeight: 600, marginBottom: '20px' }}>Contact Us</h4>
             <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
-              <a href="tel:+918435996985" style={{ display: 'flex', alignItems: 'center', gap: '10px', color: 'rgba(255,255,255,0.7)', textDecoration: 'none', fontSize: '14px' }}>
+              <a href="tel:+919111670455" style={{ display: 'flex', alignItems: 'center', gap: '10px', color: 'rgba(255,255,255,0.7)', textDecoration: 'none', fontSize: '14px' }}>
                 <Phone style={{ width: '16px', height: '16px', color: '#FF6B35' }} />
-                +91-84359-96985
+                +91-91116-70455
               </a>
-              <a href="tel:+918871989370" style={{ display: 'flex', alignItems: 'center', gap: '10px', color: 'rgba(255,255,255,0.7)', textDecoration: 'none', fontSize: '14px' }}>
+              <a href="tel:+917610662296" style={{ display: 'flex', alignItems: 'center', gap: '10px', color: 'rgba(255,255,255,0.7)', textDecoration: 'none', fontSize: '14px' }}>
                 <Phone style={{ width: '16px', height: '16px', color: '#FF6B35' }} />
-                +91-88719-89370
+                +91-76106-62296
               </a>
-              <a href="mailto:deepanshurajput998@gmail.com" style={{ display: 'flex', alignItems: 'center', gap: '10px', color: 'rgba(255,255,255,0.7)', textDecoration: 'none', fontSize: '14px' }}>
+              <a href="tel:+918085557159" style={{ display: 'flex', alignItems: 'center', gap: '10px', color: 'rgba(255,255,255,0.7)', textDecoration: 'none', fontSize: '14px' }}>
+                <Phone style={{ width: '16px', height: '16px', color: '#FF6B35' }} />
+                +91-80855-57159
+              </a>
+              <a href="mailto:abhimeena1402@gmail.com" style={{ display: 'flex', alignItems: 'center', gap: '10px', color: 'rgba(255,255,255,0.7)', textDecoration: 'none', fontSize: '14px' }}>
                 <Mail style={{ width: '16px', height: '16px', color: '#FF6B35' }} />
-                deepanshurajput998@gmail.com
+                abhimeena1402@gmail.com
               </a>
               <div style={{ display: 'flex', alignItems: 'center', gap: '10px', color: 'rgba(255,255,255,0.7)', fontSize: '14px' }}>
                 <MapPin style={{ width: '16px', height: '16px', color: '#FF6B35' }} />
-                ऑफिस विजय नगर, इंदौर (म.प्र.)
+                Khatkiya, Kumbhraj (District Guna) - 473222
               </div>
             </div>
           </div>

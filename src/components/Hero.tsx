@@ -91,12 +91,12 @@ export default function Hero() {
         <div className="hero-inner">
           {/* Tagline */}
           <p className="hero-tagline">
-            ✦ Trusted by Thousands • Pure & Safe • Since 2020 ✦
+            ✦ Trusted by Thousands • Pure & Safe • Since 2024 ✦
           </p>
 
           {/* Headline */}
           <h1 className="hero-headline">
-            Crypto Packaged<br />
+            Unique Mineral<br />
             <span style={{ color: '#00D9FF' }}>Drinking Water</span>
           </h1>
 
@@ -107,18 +107,18 @@ export default function Hero() {
 
           {/* Location */}
           <p className="hero-location">
-            📍 ऑफिस विजय नगर, इंदौर (म.प्र.)
+            Location: Khatkiya, Kumbhraj (District Guna) - 473222
           </p>
 
           {/* CTA Buttons */}
           <div className="hero-cta-buttons">
-            <a href="tel:+918435996985" className="cta-primary">
+            <a href="tel:+919111670455" className="cta-primary">
               <Phone style={{ width: '18px', height: '18px' }} />
-              +91-84359-96985
+              +91-91116-70455
             </a>
-            <a href="tel:+918871989370" className="cta-secondary">
+            <a href="tel:+917610662296" className="cta-secondary">
               <Phone style={{ width: '18px', height: '18px' }} />
-              +91-88719-89370
+              +91-76106-62296
             </a>
           </div>
 
